@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=l
+comment0.target=librerias.estructurasDeDatos.modelos.ListaConPI\ frecuenciaDe(librerias.estructurasDeDatos.modelos.ListaConPI)
+comment0.text=\n\ Devuelve\ una\ ListaConPI\ con\ las\ frecuencias\ de\ aparicion\ de\ las\n\ palabras\ de\ la\ lista\ l\ en\ una\ coleccion\ de\ libros.\ Si\ ninguna\ palabra\ \n\ de\ l\ esta\ en\ la\ coleccion,\ o\ l\ esta\ vacia,\ el\ metodo\ debe\ devolver\ una\ \n\ lista\ vacia.\n
+comment1.params=
+comment1.target=IndexadorEx()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
